@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: 4dbdddd85e015bd0082b53c9977ae112
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7240050704875682154
+    second: MiniBear [MarshMadness]_0
+  - first:
+      213: 8453583097107377401
+    second: MiniBear [MarshMadness]_1
+  - first:
+      213: 4342344894930873584
+    second: MiniBear [MarshMadness]_2
+  - first:
+      213: 2023388219618156288
+    second: MiniBear [MarshMadness]_3
+  - first:
+      213: 1231178722836664713
+    second: MiniBear [MarshMadness]_4
+  - first:
+      213: -2139231503868848888
+    second: MiniBear [MarshMadness]_5
+  - first:
+      213: 848373385535993436
+    second: MiniBear [MarshMadness]_6
+  - first:
+      213: 7494185422142375100
+    second: MiniBear [MarshMadness]_7
+  - first:
+      213: 641930032262375418
+    second: MiniBear [MarshMadness]_8
+  - first:
+      213: -4506781588173754307
+    second: MiniBear [MarshMadness]_9
+  - first:
+      213: 2668554812388026984
+    second: MiniBear [MarshMadness]_10
+  - first:
+      213: 7304335151164446463
+    second: MiniBear [MarshMadness]_11
+  - first:
+      213: -1888254391457336922
+    second: MiniBear [MarshMadness]_12
+  - first:
+      213: 94566340687757322
+    second: MiniBear [MarshMadness]_13
+  - first:
+      213: 2023599087804260819
+    second: MiniBear [MarshMadness]_14
+  - first:
+      213: 894622712609711140
+    second: MiniBear [MarshMadness]_15
+  - first:
+      213: -6840949359507175189
+    second: MiniBear [MarshMadness]_16
+  - first:
+      213: 1424602441123727631
+    second: MiniBear [MarshMadness]_17
+  - first:
+      213: 7538384052541339064
+    second: MiniBear [MarshMadness]_18
+  - first:
+      213: -392330273748917502
+    second: MiniBear [MarshMadness]_19
+  - first:
+      213: -2522474764615223835
+    second: MiniBear [MarshMadness]_20
+  - first:
+      213: -2817511715458867572
+    second: MiniBear [MarshMadness]_21
+  - first:
+      213: 179288938852631181
+    second: MiniBear [MarshMadness]_22
+  - first:
+      213: 6913910945102858222
+    second: MiniBear [MarshMadness]_23
+  - first:
+      213: -7482056553434319530
+    second: MiniBear [MarshMadness]_24
+  - first:
+      213: 3237977549102867865
+    second: MiniBear [MarshMadness]_25
+  - first:
+      213: -8701348485519547416
+    second: MiniBear [MarshMadness]_26
+  - first:
+      213: 9122433283819002475
+    second: MiniBear [MarshMadness]_27
+  - first:
+      213: -3627335799044121447
+    second: MiniBear [MarshMadness]_28
+  - first:
+      213: 1725775696898248321
+    second: MiniBear [MarshMadness]_29
+  - first:
+      213: 6466559641396633103
+    second: MiniBear [MarshMadness]_30
+  - first:
+      213: -3110183269539670778
+    second: MiniBear [MarshMadness]_31
+  - first:
+      213: -8356877320771469651
+    second: MiniBear [MarshMadness]_32
+  - first:
+      213: 3556648011460022838
+    second: MiniBear [MarshMadness]_33
+  - first:
+      213: -5622141521160822498
+    second: MiniBear [MarshMadness]_34
+  - first:
+      213: 952161770090872882
+    second: MiniBear [MarshMadness]_35
+  - first:
+      213: 3574595486073621638
+    second: MiniBear [MarshMadness]_36
+  - first:
+      213: -6746692501148980099
+    second: MiniBear [MarshMadness]_37
+  - first:
+      213: 7174919249539563342
+    second: MiniBear [MarshMadness]_38
+  - first:
+      213: 8422615679497098508
+    second: MiniBear [MarshMadness]_39
+  - first:
+      213: -1503613443512585831
+    second: MiniBear [MarshMadness]_40
+  - first:
+      213: 5967151462767622976
+    second: MiniBear [MarshMadness]_41
+  - first:
+      213: 7184832917939144054
+    second: MiniBear [MarshMadness]_42
+  - first:
+      213: 8756997092926201331
+    second: MiniBear [MarshMadness]_43
+  - first:
+      213: -1006492657700604415
+    second: MiniBear [MarshMadness]_44
+  - first:
+      213: -7818739433898218299
+    second: MiniBear [MarshMadness]_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 225
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fce45ea909215570800000000000000
+      internalID: 8453583097107377401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 225
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fce59adcab134c30800000000000000
+      internalID: 4342344894930873584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 225
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fdc098dd4841c10800000000000000
+      internalID: 2023388219618156288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 193
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981d2bd7686061110800000000000000
+      internalID: 1231178722836664713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 193
+        width: 25
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8059297084cef42e0800000000000000
+      internalID: -2139231503868848888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 195
+        width: 28
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56b4c9691706cb00800000000000000
+      internalID: 848373385535993436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 193
+        width: 24
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb405bf7fe1b00860800000000000000
+      internalID: 7494185422142375100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 193
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af767a796f798e800800000000000000
+      internalID: 641930032262375418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 193
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30f1a40602b471c0800000000000000
+      internalID: -4506781588173754307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 161
+        width: 22
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a2c08967c980520800000000000000
+      internalID: 2668554812388026984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 161
+        width: 24
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff65e85be163e5560800000000000000
+      internalID: 7304335151164446463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 161
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a13d97a2a29bc5e0800000000000000
+      internalID: -1888254391457336922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 161
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a000768f597ff4100800000000000000
+      internalID: 94566340687757322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 129
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1a06c16a4451c10800000000000000
+      internalID: 2023599087804260819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 129
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42429110e965a6c00800000000000000
+      internalID: 894622712609711140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 129
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8832c6dc01011a0800000000000000
+      internalID: -6840949359507175189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 129
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0985515f5435c310800000000000000
+      internalID: 1424602441123727631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 129
+        width: 23
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b532301b58bd9860800000000000000
+      internalID: 7538384052541339064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 129
+        width: 20
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2036096d1b92e8af0800000000000000
+      internalID: -392330273748917502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 129
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5f834f09e5efcd0800000000000000
+      internalID: -2522474764615223835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 97
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e9299c50036e8d0800000000000000
+      internalID: -2817511715458867572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 97
+        width: 21
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82c7780756fc7200800000000000000
+      internalID: 179288938852631181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 97
+        width: 22
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee78a838f5523ff50800000000000000
+      internalID: 6913910945102858222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 97
+        width: 25
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655f92fc4356a2890800000000000000
+      internalID: -7482056553434319530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 97
+        width: 26
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99567f4ec6b9fec20800000000000000
+      internalID: 3237977549102867865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 97
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e369b577a99e3780800000000000000
+      internalID: -8701348485519547416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a5b392db4699e70800000000000000
+      internalID: 9122433283819002475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 65
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cdae82f4d19adc0800000000000000
+      internalID: -3627335799044121447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 65
+        width: 21
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e4f9f4adf23f710800000000000000
+      internalID: 1725775696898248321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 65
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ed2588bb5ddb950800000000000000
+      internalID: 6466559641396633103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 65
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60599b87bc866d4d0800000000000000
+      internalID: -3110183269539670778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 65
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daef5e77a58660c80800000000000000
+      internalID: -8356877320771469651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 65
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6329c22c580cb5130800000000000000
+      internalID: 3556648011460022838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_34
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 65
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e112c3ae2142af1b0800000000000000
+      internalID: -5622141521160822498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_35
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 65
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23049fac512c63d00800000000000000
+      internalID: 952161770090872882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 65
+        width: 21
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c0223d7a38b9130800000000000000
+      internalID: 3574595486073621638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_37
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 65
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c293c6aeeee52a0800000000000000
+      internalID: -6746692501148980099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 33
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ffae80b0f629360800000000000000
+      internalID: 7174919249539563342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_39
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 33
+        width: 21
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c055f08e55423e470800000000000000
+      internalID: 8422615679497098508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 33
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9913ee32a87122be0800000000000000
+      internalID: -1503613443512585831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b773bd3a49fc250800000000000000
+      internalID: 5967151462767622976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675cb44d877a5b360800000000000000
+      internalID: 7184832917939144054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_43
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 23
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd9efe957a178970800000000000000
+      internalID: 8756997092926201331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 27
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10677bca2483802f0800000000000000
+      internalID: -1006492657700604415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_45
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 25
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc682b09e14e7390800000000000000
+      internalID: -7818739433898218299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBear [MarshMadness]_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 225
+        width: 22
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de6caca11390900e9d5ea8681f72662
+      internalID: 699410946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 792704ec4abc209aca64a9791ae6eed7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":8.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MiniBear [MarshMadness]_0: 699410946
+      MiniBear [MarshMadness]_1: 8453583097107377401
+      MiniBear [MarshMadness]_10: 2668554812388026984
+      MiniBear [MarshMadness]_11: 7304335151164446463
+      MiniBear [MarshMadness]_12: -1888254391457336922
+      MiniBear [MarshMadness]_13: 94566340687757322
+      MiniBear [MarshMadness]_14: 2023599087804260819
+      MiniBear [MarshMadness]_15: 894622712609711140
+      MiniBear [MarshMadness]_16: -6840949359507175189
+      MiniBear [MarshMadness]_17: 1424602441123727631
+      MiniBear [MarshMadness]_18: 7538384052541339064
+      MiniBear [MarshMadness]_19: -392330273748917502
+      MiniBear [MarshMadness]_2: 4342344894930873584
+      MiniBear [MarshMadness]_20: -2522474764615223835
+      MiniBear [MarshMadness]_21: -2817511715458867572
+      MiniBear [MarshMadness]_22: 179288938852631181
+      MiniBear [MarshMadness]_23: 6913910945102858222
+      MiniBear [MarshMadness]_24: -7482056553434319530
+      MiniBear [MarshMadness]_25: 3237977549102867865
+      MiniBear [MarshMadness]_26: -8701348485519547416
+      MiniBear [MarshMadness]_27: 9122433283819002475
+      MiniBear [MarshMadness]_28: -3627335799044121447
+      MiniBear [MarshMadness]_29: 1725775696898248321
+      MiniBear [MarshMadness]_3: 2023388219618156288
+      MiniBear [MarshMadness]_30: 6466559641396633103
+      MiniBear [MarshMadness]_31: -3110183269539670778
+      MiniBear [MarshMadness]_32: -8356877320771469651
+      MiniBear [MarshMadness]_33: 3556648011460022838
+      MiniBear [MarshMadness]_34: -5622141521160822498
+      MiniBear [MarshMadness]_35: 952161770090872882
+      MiniBear [MarshMadness]_36: 3574595486073621638
+      MiniBear [MarshMadness]_37: -6746692501148980099
+      MiniBear [MarshMadness]_38: 7174919249539563342
+      MiniBear [MarshMadness]_39: 8422615679497098508
+      MiniBear [MarshMadness]_4: 1231178722836664713
+      MiniBear [MarshMadness]_40: -1503613443512585831
+      MiniBear [MarshMadness]_41: 5967151462767622976
+      MiniBear [MarshMadness]_42: 7184832917939144054
+      MiniBear [MarshMadness]_43: 8756997092926201331
+      MiniBear [MarshMadness]_44: -1006492657700604415
+      MiniBear [MarshMadness]_45: -7818739433898218299
+      MiniBear [MarshMadness]_5: -2139231503868848888
+      MiniBear [MarshMadness]_6: 848373385535993436
+      MiniBear [MarshMadness]_7: 7494185422142375100
+      MiniBear [MarshMadness]_8: 641930032262375418
+      MiniBear [MarshMadness]_9: -4506781588173754307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
