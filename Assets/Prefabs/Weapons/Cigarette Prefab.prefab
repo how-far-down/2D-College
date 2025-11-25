@@ -142,6 +142,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CigarettePrefab
   weapon: {fileID: 0}
+  enemiesInRange: []
 --- !u!95 &4910562009716171603
 Animator:
   serializedVersion: 7

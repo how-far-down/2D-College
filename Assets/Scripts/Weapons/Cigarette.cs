@@ -9,6 +9,7 @@ public class Cigarette : MonoBehaviour
     public float duration = 3f;
     public float damage = 1f;
     public float range = 0.7f;
+    public float speed = 0.5f;
 
     void Update()
     {
@@ -20,3 +21,12 @@ public class Cigarette : MonoBehaviour
         }
     }
 }
+
+
+
+
+
+
+
+
+

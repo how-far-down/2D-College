@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -12,19 +13,32 @@ public class PlayerController : MonoBehaviour
     public float playerMaxHealth;
     public float playerHealth;
 
+    public int experience;
+    public int currentLevel;
+    public int maxLevel;
+    public List<int> playerLevels;
+
     private bool isImmune;
     [SerializeField] private float immunityDuration;
     [SerializeField] private  float immunityTimer;
 
-    void Awake(){
-        if (Instance != null && Instance != this){
+    void Awake()
+    {
+        if (Instance != null && Instance != this)
+        {
             Destroy(this);
-        } else {
+        } 
+        else 
+        {
             Instance = this;
         }
     }
     void Start()
     {
+        for (int i = playerLevels.Count; i < maxLevel; i++)
+        {
+            playerLevels.Add(Mathf.CeilToInt(playerLevels[playerLevels.Count - 1] * 1.1f + 15));
+        }
         playerHealth = playerMaxHealth;
         UIController.Instance.UpdateHealthSlider();
     }
@@ -39,9 +53,12 @@ public class PlayerController : MonoBehaviour
         animator.SetFloat("moveX", inputX);
         animator.SetFloat("moveY", inputY);
 
-        if (playerMoveDirection == Vector3.zero){
+        if (playerMoveDirection == Vector3.zero)
+        {
             animator.SetBool("moving", false);
-        } else {
+        } 
+        else 
+        {
         animator.SetBool("moving", true);    
         }
 
@@ -56,7 +73,8 @@ public class PlayerController : MonoBehaviour
 
     }
 
-    void FixedUpdate(){
+    void FixedUpdate()
+    {
         rb.linearVelocity = new Vector3(playerMoveDirection.x * 
         moveSpeed, playerMoveDirection.y * moveSpeed);
     }
@@ -64,7 +82,8 @@ public class PlayerController : MonoBehaviour
     //Alows player to take damager
     public void TakeDamage(float damage)
     {
-        if (!isImmune){
+        if (!isImmune)
+        {
             isImmune = true;
             immunityTimer = immunityDuration;
             playerHealth -= damage;
@@ -78,4 +97,10 @@ public class PlayerController : MonoBehaviour
             }
         }
     }
+
+    public void GetExperience(int experienceToGet)
+    {
+        experience += experienceToGet;
+    }
+
 }

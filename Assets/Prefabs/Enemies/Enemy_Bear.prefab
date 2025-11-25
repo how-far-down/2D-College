@@ -9,11 +9,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5015223339418781532}
+  - component: {fileID: 7688474505682808312}
   - component: {fileID: 8970870007552361179}
   - component: {fileID: 8535495336756491964}
   - component: {fileID: 2476907417170897702}
   - component: {fileID: 7060839700524926105}
-  - component: {fileID: 7688474505682808312}
+  - component: {fileID: 3434627197510426404}
   m_Layer: 9
   m_Name: Enemy_Bear
   m_TagString: Enemy
@@ -36,6 +37,26 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7688474505682808312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 746250668887657083}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67c6da54662f3a88887f77b85b7b9072, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Enemy
+  spriteRenderer: {fileID: 8970870007552361179}
+  rb: {fileID: 2476907417170897702}
+  moveSpeed: 2.5
+  damage: 3
+  health: 5
+  experienceToGive: 4
+  pushTime: 0.4
+  destroyEffect: {fileID: 5886183773189677585, guid: 197a6a4e501b1c95f8046b737695aacf, type: 3}
 --- !u!212 &8970870007552361179
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -128,7 +149,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 12
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 0
@@ -180,21 +201,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0.2}
   m_Size: {x: 0.875, y: 0.4}
   m_Direction: 1
---- !u!114 &7688474505682808312
-MonoBehaviour:
+--- !u!111 &3434627197510426404
+Animation:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 746250668887657083}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 67c6da54662f3a88887f77b85b7b9072, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Enemy
-  spriteRenderer: {fileID: 8970870007552361179}
-  rb: {fileID: 2476907417170897702}
-  moveSpeed: 2.5
-  damage: 3
-  health: 10
-  destroyEffect: {fileID: 5886183773189677585, guid: 197a6a4e501b1c95f8046b737695aacf, type: 3}
+  serializedVersion: 4
+  m_Animation: {fileID: 0}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_UpdateMode: 0
+  m_CullingType: 0

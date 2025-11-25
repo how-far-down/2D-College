@@ -7,6 +7,8 @@ public class UIController : MonoBehaviour
     public static UIController Instance;
     [SerializeField] private Slider playerHealthSlider;
     [SerializeField] private TMP_Text healthText;
+    [SerializeField] private Slider playerExperienceSlider;
+    [SerializeField] private TMP_Text experienceText;
     public GameObject gameOverPanel;
     public GameObject pausePanel;
     [SerializeField] private TMP_Text timerText;
@@ -15,7 +17,9 @@ public class UIController : MonoBehaviour
     {
         if (Instance != null && Instance != this){
             Destroy(this);
-        } else {
+        } 
+        else 
+        {
             Instance = this;
         }
     }
