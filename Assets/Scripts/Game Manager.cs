@@ -43,7 +43,7 @@ public class GameManager : MonoBehaviour
     //Displays game over screen with .5 second delay
     IEnumerator ShowGameOverScreen()
     {
-        yield return new WaitForSeconds(1.5f);
+        yield return new WaitForSeconds(0f);
         UIController.Instance.gameOverPanel.SetActive(true);
     }
 

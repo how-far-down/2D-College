@@ -78,4 +78,5 @@ public class Enemy : MonoBehaviour
             PlayerController.Instance.GetExperience(experienceToGive);
         }
     }
+    
 }

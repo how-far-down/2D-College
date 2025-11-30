@@ -79,5 +79,8 @@ TagManager:
   - name: UI
     uniqueID: 600214675
     locked: 0
+  - name: LevelUp
+    uniqueID: 1120321111
+    locked: 0
   m_RenderingLayers:
   - Default
